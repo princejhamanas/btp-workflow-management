@@ -1,14 +1,3 @@
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/btp-workflow-management-opensap)](https://api.reuse.software/info/github.com/SAP-samples/btp-workflow-management-opensap)
-
-# Improve Business Processes with SAP Workflow Management
-
-## Description
-This is a free online course to learn about SAP Workflow Management and how it can help you digitize workflows, automate and extend business processes, manage decisions, and gain end-to-end process visibility. 
-
-In this course, you’ll get an introduction to SAP Workflow Management, learn how to create a workflow from scratch, configure a process template for reuse, enrich it with business rules, and have complete visibility during execution. You’ll also see how to benefit from predefined, live process content packages to accelerate process automation within your organization. In addition, learn how to extend and get insights into business workflows running in SAP S/4HANA or SAP ERP. The course is supplemented by a rich set of exercises that will help you improve and strengthen your learning.
-
-After completing this course, you’ll be able to flexibly tailor your processes to your business needs with SAP Workflow Management.
-
 ## Exercises
 
 In each week there are a set of exercises prepared for you. We will provide access to the exercises at the beginning of each week. Please be invited to do them.
